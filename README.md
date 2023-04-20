@@ -9,6 +9,10 @@ $ make all
 
 $ ./ssu_PR_simulator
 
+HOW TO CLEAN
+
+$ make clean
+
 
 Run on Linux
 
