@@ -1,5 +1,5 @@
 #include "ssu_PR_simulator.h"
-//#include <stdio_ext.h>
+#include <stdio_ext.h>
 //초기 페이지 값은 프레임 수 만큼 모두 -1 로 채울 것
 void pageFrame_append(pageFrame *head,int frame, int page)
 {
