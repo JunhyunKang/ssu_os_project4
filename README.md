@@ -1,20 +1,20 @@
-# ssu_os_project4
-page replacement
+## ssu_os_project4
+#page replacement
 
-use gcc compiler
+#use gcc compiler
 
-HOW TO RUN
+#HOW TO RUN
 
 $ make all
 
 $ ./ssu_PR_simulator
 
-HOW TO CLEAN
+#HOW TO CLEAN
 
 $ make clean
 
 
-Run on Linux
+#Run on Linux
 
 If you want to run on mac or windows
 
