@@ -16,7 +16,7 @@ $ make clean
 
 ## Run on Linux
 
-If you want to run on mac or windows
+If you want to run on macOS
 
 $ vi ssu_PR_simulator.c
 
